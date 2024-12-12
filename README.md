@@ -1,1 +1,2 @@
 # Computer_Vision
+The first file, "A01 Team 3 Holmes.pptx," is a PowerPoint presentation that seems to delve into the historical evolution of computer vision. It likely covers key milestones, prominent figures, and their contributions to the field.  The second file, "L01 Juan Holmes ITAI1378.pdf," is a PDF document that explores Apple's Face ID technology. It discusses the technology's development, explain how it functions, and analyze its impact on device security and user privacy.
