@@ -1,1 +1,1 @@
-# Computer_Vision
+My lab session familiarized me with GitHub and Jupyter Notebook.  I created a GitHub account and a new repository called "jupyter-exploration".  I installed Jupyter Notebook, created a notebook with Markdown and code cells, and executed a Python script.  I then saved and uploaded the notebook to my GitHub repository.  I found GitHub's UI challenging at first but quickly adapted by reviewing the help guides.  I plan to use GitHub more regularly to keep track of my work and collaborate with others effectively.
